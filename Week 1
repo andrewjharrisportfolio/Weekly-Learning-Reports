@@ -1,0 +1,37 @@
+# SANS Weekly Learning Report: Week [1]  
+**Dates:** [2-3] - [2-8]  
+
+---
+
+## Introduction 📚
+This week, I started my journey in the SANS training program. 
+This is the first post of many where I will summarize my key takeaways from topics that I will learn over the course of the program. 
+By law I cannot and will not post any content from SANS but I can speak about general concepts that i've learned through reading material, on demand videos and labs.
+---
+
+## Key Learnings
+
+### [Linux] 💻
+Linux was something that peaked my interest because I did an homelab setup using Kali Linux and Ubuntu and it was very interesting learning the capability of the command line. 
+To me Linux reminds me of the scenes in the spy movies where the hacker is typing a grandiose amount of commands and then he usually just walks out like nothing happened HAHA. 
+One of the big takeaways I learned is to make sure i'm not in root while doing everyday things because that can be an easy way hackers can breach your network. 
+I also learned how to see the contents of a zip file without unzipping it (File thisisanexample.zip -z) . Hopefully after completing more labs I will be ready to take a Red Hat course once I learn the fundamentals.
+
+### [Search Engine Optimization 🌏
+I've been using google for yeeears and did not know there were different ways you could search to tailor your queries. 
+This weekend I was looking for a certain ebook converted in to pdf format so I could send it to my kindle app. 
+By using “Filetype:pdf findthisbookforme” google will parse results for every site that contains the pdf of said book. You can also use that search queries to find mp3 files.
+Maybe you have an album that is not available on streaming but is entrenched deep in the google trenches. 
+Also let's say you're looking for an certain song but you don't know the name but some of the lyrics you can search using an asterisk *. Searching using an asterisk is called an operator.
+
+---
+
+## Challenges Faced 
+
+### [Challenge 1]
+One of the most significant challenges this week was learning logical NOR. The NOR logic gate is the OR circuit followed by a NOT circuit . 
+The problem I had was I would skip over the condition of the code and only focus on the formula. 
+For example The condition !(string1 == string2 || int1 == int2) checks if both string1 and string2 are not equal, and if int1 and int2 are also not equal. 
+If both conditions are false, the OR (||) evaluates to false, and the negation (!) makes the overall condition true, allowing the if block to execute. 
+If either condition is true, the if block will not execute. After doing multiple problems I realized my problem was the {!}. 
+
