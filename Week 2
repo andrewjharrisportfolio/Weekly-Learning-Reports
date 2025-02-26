@@ -1,0 +1,24 @@
+This week will be a short learning report I Just wrapped up a fast, multithreaded port scanner in Python! 
+This project helped me dive deeper into socket programming, multithreading, and concurrency handling, making network scanning more efficient.
+
+you can view the project here: https://github.com/andrewjharrisportfolio/Threaded-Port-Scanner-in-Python
+
+Key Takeaways:
+✅ Used Python sockets for network scanning
+✅ Implemented multithreading for speed
+✅ Handled IP addresses & port ranges dynamically
+✅ Managed timeouts & exception handling for reliability
+✅ Learned about queues to handle multiple threads
+
+How It Works:
+1️⃣ Establish a socket connection to test open ports
+2️⃣ Scan standardized ports (initially slow)
+3️⃣ Introduce multithreading to speed up scans
+4️⃣ Use queues to manage port assignments across threads
+5️⃣ Print open ports efficiently 🎯
+
+Big thanks to freeCodeCamp.org for an amazing tutorial! 🎓
+📺 Watch here: https://www.youtube.com/watch?v=FGdiSJakIS4&t=2635s
+
+Excited to keep learning and building more projects! 💡
+#Python #CyberSecurity #Networking #LearningByDoing
