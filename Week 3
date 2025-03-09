@@ -1,0 +1,37 @@
+# SANS Weekly Learning Report: Week [3]  
+**Dates:** [3-1] - [3-9]  
+
+---
+
+## Introduction 📚
+This week, I explored programming languages in depth, which was both fascinating and challenging from a beginner's standpoint. 
+While it pushed me out of my comfort zone, I found the learning process rewarding and eye-opening.
+
+## Key Learnings
+
+### [Compiling Code] 💻
+Compiling code is the process of taking a program's source code and converting it into machine code, which creates an executable file that the computer can run. 
+When the program is executed, it is loaded into memory, where the system retrieves and executes the necessary instructions.
+
+For me, compiling code is a lot like meal prepping. 
+You cook the meal and store it in containers, ready to go. 
+When it's time to eat, you place the food in the microwave, press the right buttons, 
+and the microwave determines the instructions needed to heat the meal properly—just like how a computer processes compiled code to run a program.
+
+### [High-Level vs. Low-Level Languages] 💾
+A high-level language simplifies many of the complexities of how a processor operates, handling much of the underlying details automatically for the programmer. 
+In contrast, a low-level language requires the programmer to manage these details directly.
+
+In a high-level language, fewer instructions are needed to accomplish a task, making it easier to write, read, and maintain code. 
+This also reduces the likelihood of errors since the programmer has less direct control over system operations. However, this simplification can limit optimization and flexibility.
+
+On the other hand, a low-level language provides the programmer with much more control, allowing them to fine-tune performance and execute complex, system-specific operations. 
+The downside is that with greater control comes a higher risk of errors, which can lead to system crashes or unexpected behavior if not handled carefully.
+
+
+
+
+
+
+
+
